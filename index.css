@@ -26,8 +26,7 @@ a:hover{
     padding:5px 6.7px;
 }
 #nav img{
-    width:34px;
-    padding:5px;
+    width:15px;
     margin:auto 7px;
     cursor:pointer;
 }
@@ -40,10 +39,6 @@ a:hover{
     outline:none;
     background:#4285f4;
     color:#fff;
-    padding:7px 12px;
-    border-radius:3px;
-    margin-left:7px;
-    currsor:pointer;
 }
 #middle{
     flex-grow:1;
