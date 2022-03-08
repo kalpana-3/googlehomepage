@@ -15,7 +15,7 @@ a:hover{
     text-decoration:underline;
     opacity: .85;
 }
-nav a{
+#nav a{
     margin-right:20px;
     font-size:13px;
     display:inline-block;
@@ -25,16 +25,16 @@ nav a{
     cursor:pointer;
     padding:5px 6.7px;
 }
-nav img{
+#nav img{
     width:34px;
     padding:5px;
     margin:auto 7px;
     cursor:pointer;
 }
-nav img:hover{
+#nav img:hover{
     opacity: .8;
 }
-nav button{
+#nav button{
     border:1px solid #4285f4;
     font-weight:bold;
     outline:none;
