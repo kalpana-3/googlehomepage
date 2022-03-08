@@ -15,7 +15,7 @@ a:hover{
     text-decoration:underline;
     opacity: .85;
 }
-#nav a{
+nav a{
     margin-right:20px;
     font-size:13px;
     display:inline-block;
@@ -25,13 +25,13 @@ a:hover{
     cursor:pointer;
     padding:5px 6.7px;
 }
-#nav img{
+nav img{
     width:34px;
     padding:5px;
     margin:auto 7px;
     cursor:pointer;
 }
-#nav img:hover{
+nav img:hover{
     opacity: .8;
 }
 nav button{
@@ -71,10 +71,6 @@ nav button{
     display:flex;
     justify-content:center;
     align-items:center;
-    width:20px;
-    opacity:4;
-    top:13px;
-    left:14px;
 }
 
 #search{
