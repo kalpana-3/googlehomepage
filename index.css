@@ -61,6 +61,8 @@ nav button{
     margin-top:20px;
     text-align:center;
     position:relative;
+    width:580px;
+    margin:0px auto;
 }
 #search,#voice{
     position:absolute;
@@ -69,6 +71,10 @@ nav button{
     display:flex;
     justify-content:center;
     align-items:center;
+    width:20px;
+    opacity:4;
+    top:13px;
+    left:14px;
 }
 
 #search{
@@ -88,6 +94,10 @@ nav button{
     padding-right:30px;
     border-radius:15px;
     border:1px solid #c4c4c4;
+    display:block;
+    color:rgba(0,0,0,0.87);
+    font-size:16px;
+    transition:box-shadow:100ms;
 }
 searchbar:hover{
     box-shadow:0 0 10px 2px rgb;
